@@ -1,0 +1,13 @@
+For this assignment you will be adding CSS to the file toStyle.html.
+
+Requirements for this assignment:
+1)  Create a CSS file that is included in the HTML page
+2)  Create boxes that up 10% of the height and width that have a solid black border around all paragraph tags.
+3)  For the id first, you will use the font family Roboto from Google Fonts.
+4)  For the id second, you will use the font family Montserrat from Google Fonts.
+5)  For the URL link, have the color be red before being clicked and yellow when it is active, and orange when it has 
+    been clicked.
+
+Upload your CSS file and HTML file to Radford's web hosting and submit the URL to 
+	D2L under the correct assignment.
+Add your CSS file and changes to the HTML to git.
